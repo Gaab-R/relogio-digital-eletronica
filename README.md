@@ -41,7 +41,7 @@ O sistema é dividido em blocos funcionais:
 
 ## 🎥 Demonstração
 Vídeo do projeto funcionando:  
-🔗 (link será adicionado)
+🔗 https://drive.google.com/file/d/1llMti3HTV9kcPDNxH_zyyDx4j1XdJNWo/view?usp=drivesdk
 
 ---
 
