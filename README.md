@@ -45,6 +45,12 @@ Vídeo do projeto funcionando:
 
 ---
 
+## 🧪 Simulação
+Simulação do circuito desenvolvida no Tinkercad:  
+🔗 https://www.tinkercad.com/things/8whhhuMNjNG-relogio-eletronica-digital
+
+---
+
 ## 🧠 Aprendizados
 - Eletrônica digital aplicada
 - Circuitos sequenciais e temporização
