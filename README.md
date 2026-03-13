@@ -53,7 +53,7 @@ Simulação do circuito desenvolvida no Tinkercad:
 
 ## 📄 Documentação
 Relatório técnico completo do projeto:  
-🔗 docs/Relatorio_Eletronica_Digital.pdf
+🔗 [docs/Relatorio_Eletronica_Digital.pdf](https://github.com/Gaab-R/relogio-digital-eletronica/blob/main/docs/Relatorio_Eletronica_Digital.pdf)
 
 ---
 
