@@ -26,15 +26,15 @@ A proposta foi aplicar na prática conceitos de contadores, geração de clock e
 
 ---
 
-[## Demonstração](https://drive.google.com/file/d/1llMti3HTV9kcPDNxH_zyyDx4j1XdJNWo/view?usp=drivesdk)
+## [Demonstração](https://drive.google.com/file/d/1llMti3HTV9kcPDNxH_zyyDx4j1XdJNWo/view?usp=drivesdk)
 
 ---
 
-[## Simulação](https://www.tinkercad.com/things/8whhhuMNjNG-relogio-eletronica-digital)
+## [Simulação](https://www.tinkercad.com/things/8whhhuMNjNG-relogio-eletronica-digital)
 
 ---
 
-[## Documentação](https://github.com/Gaab-R/relogio-digital-eletronica/blob/main/docs/Relatorio_Eletronica_Digital.pdf)
+## [Documentação](https://github.com/Gaab-R/relogio-digital-eletronica/blob/main/docs/Relatorio_Eletronica_Digital.pdf)
 
 ---
 
